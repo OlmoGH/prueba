@@ -1,0 +1,9 @@
+[Copiar un archivo desde mi portatil a un directorio de Joel]
+
+> scp file_to_copy_in_my_computer user@server:/folder_in_joel 
+
+[Subir archivos a github desde un repositorio clonado]
+
+> git add file_1 file_2
+
+> git commit -m *Message*
